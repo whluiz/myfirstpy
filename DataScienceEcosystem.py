@@ -60,6 +60,9 @@
 # <h2 style="font-size:2rem;color:red;">Author</h2>
 
 # Jose Palma
+git rm file1.txt
+git commit -m "remove file1.txt"
+
 
 # In[ ]:
 
